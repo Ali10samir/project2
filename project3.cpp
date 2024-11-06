@@ -7,4 +7,5 @@ int main(){
     cout<<"pro"<<endl;
     cout<<"trying"<<endl;
     cout<<"hello"<<endl;
+    cout<<"college"<<endl;
 }
